@@ -10,8 +10,8 @@ setuptools.setup(
     author_email=r'schaefl@ml.jku.at',
     url=r'https://github.com/ml-jku/hopfield-layers',
     description=r'Continuous modern Hopfield layers for Deep Learning architectures',
-    long_description=long_description,
-    long_description_content_type=r'text/markdown',
+    #long_description=long_description,
+    #long_description_content_type=r'text/markdown',
     packages=setuptools.find_packages(),
     python_requires=r'>=3.8.0',
     install_requires=[
